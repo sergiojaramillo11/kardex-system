@@ -3,6 +3,7 @@ package com.kardex.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
+
 import com.kardex.jpa.tb_clientes;
 
 @Repository
